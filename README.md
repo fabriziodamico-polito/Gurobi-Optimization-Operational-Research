@@ -11,15 +11,15 @@
 
 ---
 
-## 🎯 Why This Repository?
+## Context
 
-In modern business, making the "right" decision among millions of possibilities requires more than intuition—it requires mathematical optimization. **Gurobi Optimizer** is the undisputed industry standard for mathematical programming, used by top enterprises to solve large-scale logistical, financial, and operational challenges.
+In modern business, making the "right" decision among millions of possibilities requires more than intuition - it requires mathematical optimization. **Gurobi Optimizer** is the undisputed industry standard for mathematical programming, used by top enterprises to solve large-scale logistical, financial, and operational challenges.
 
-This repository showcases my ability to **translate real-world business requirements into rigorous mathematical models** (Mixed-Integer Linear Programming - MILP) and solve them using the Gurobi Python API (`gurobipy`).
+This repository showcases the ability to **translate real-world business requirements into rigorous mathematical models** (Mixed-Integer Linear Programming - MILP) and solve them using the Gurobi Python API (`gurobipy`).
 
 ---
 
-## 🧠 Methodology
+## Methodology
 
 Every project in this repository follows a strict, professional Operations Research workflow:
 1. **Problem Analysis:** Understanding the business constraints, costs, and objectives.
@@ -27,9 +27,7 @@ Every project in this repository follows a strict, professional Operations Resea
 3. **Implementation:** Translating the math into clean, readable Python code using `gurobipy`.
 4. **Optimization:** Running the Gurobi engine to find the globally optimal solution and analyzing the final results.
 
----
-
-## 📂 The Optimization Models
+## The Optimization Models
 
 The repository contains 7 standalone Jupyter Notebooks, each tackling a classic Operations Research scenario.
 
@@ -48,12 +46,10 @@ The repository contains 7 standalone Jupyter Notebooks, each tackling a classic 
 - **`farm_optimization.ipynb`**: Crop planning and land allocation to maximize agricultural yield and profit considering land, water, and labor constraints.
 - **`vaccination_campaign_optimization.ipynb`**: A public sector logistics problem focused on assigning patients to vaccination centers minimizing travel distances and wait times under strict capacity limits.
 
----
-
 ## 🛠️ Technology Stack
 - **Language**: Python
 - **Solver Engine**: Gurobi Optimizer (`gurobipy`)
 - **Environment**: Jupyter Notebook
 
 ## 🎓 Context
-These models were developed as part of the **Operational Research** coursework at Politecnico di Torino, demonstrating the practical application of mathematical programming to industrial problems.
+These models were developed as part of the **Operational Research** course at Politecnico di Torino, demonstrating the practical application of mathematical programming to industrial problems.
