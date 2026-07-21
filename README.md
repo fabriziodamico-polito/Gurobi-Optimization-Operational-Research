@@ -46,10 +46,10 @@ The repository contains 7 standalone Jupyter Notebooks, each tackling a classic 
 - **`farm_optimization.ipynb`**: Crop planning and land allocation to maximize agricultural yield and profit considering land, water, and labor constraints.
 - **`vaccination_campaign_optimization.ipynb`**: A public sector logistics problem focused on assigning patients to vaccination centers minimizing travel distances and wait times under strict capacity limits.
 
-## 🛠️ Technology Stack
+## Technology Stack
 - **Language**: Python
 - **Solver Engine**: Gurobi Optimizer (`gurobipy`)
 - **Environment**: Jupyter Notebook
 
-## 🎓 Context
+## Context
 These models were developed as part of the **Operational Research** course at Politecnico di Torino, demonstrating the practical application of mathematical programming to industrial problems.
